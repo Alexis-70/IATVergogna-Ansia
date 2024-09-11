@@ -1,6 +1,6 @@
 // Stimuli arrays
 const stimuliIo = ["Me", "Io", "Mio", "Miei", "Me stesso"];
-const stimuliNonIo = ["Loro", "Lui", "Egli", "Essi", "Suo", "Suoi, "Lei"];
+const stimuliNonIo = ["Loro", "Lui", "Egli", "Essi", "Suo", "Suoi"];
 const stimuliVergogna = ["Vergogna", "Arrossamento", "Imbarazzo", "Umiliazione"];
 const stimuliAnsia = ["Ansia", "Nervi a fior di pelle", "Preoccupazione"];
 
